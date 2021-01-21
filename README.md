@@ -36,7 +36,7 @@ This assignment showed me the use of jquery, local storage, and moment.js. I als
 
 # Screenshots: 
 
-* ![work day scheduler 3](https://user-images.githubusercontent.com/73844796/105399380-89147f80-5bf1-11eb-83bd-200907af03ec.jpg)
+![work day scheduler 3](https://user-images.githubusercontent.com/73844796/105399380-89147f80-5bf1-11eb-83bd-200907af03ec.jpg)
 
 * More screenshots are available in work-day-scheduler-week-5/screenshots
 
